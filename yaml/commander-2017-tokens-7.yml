@@ -1,0 +1,118 @@
+---
+object: card
+id: 7c66280f-287b-4294-9984-32484de2568a
+oracle_id: 606c46d7-18a5-4cce-9975-029899b82b34
+multiverse_ids: []
+name: Dragon
+lang: en
+released_at: '2017-08-25'
+uri: https://api.scryfall.com/cards/7c66280f-287b-4294-9984-32484de2568a
+scryfall_uri: https://scryfall.com/card/tc17/7/dragon?utm_source=api
+layout: token
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/7/c/7c66280f-287b-4294-9984-32484de2568a.jpg?1562636824
+  normal: https://cards.scryfall.io/normal/front/7/c/7c66280f-287b-4294-9984-32484de2568a.jpg?1562636824
+  large: https://cards.scryfall.io/large/front/7/c/7c66280f-287b-4294-9984-32484de2568a.jpg?1562636824
+  png: https://cards.scryfall.io/png/front/7/c/7c66280f-287b-4294-9984-32484de2568a.png?1562636824
+  art_crop: https://cards.scryfall.io/art_crop/front/7/c/7c66280f-287b-4294-9984-32484de2568a.jpg?1562636824
+  border_crop: https://cards.scryfall.io/border_crop/front/7/c/7c66280f-287b-4294-9984-32484de2568a.jpg?1562636824
+mana_cost: ''
+cmc: 0.0
+type_line: Token Creature — Dragon
+oracle_text: Flying
+power: '6'
+toughness: '6'
+colors:
+- R
+color_identity:
+- R
+keywords:
+- Flying
+all_parts:
+- object: related_card
+  id: 33f6914d-808f-4502-a87a-70912d7ae6e8
+  component: combo_piece
+  name: Utvara Hellkite
+  type_line: Creature — Dragon
+  uri: https://api.scryfall.com/cards/33f6914d-808f-4502-a87a-70912d7ae6e8
+- object: related_card
+  id: 7c66280f-287b-4294-9984-32484de2568a
+  component: token
+  name: Dragon
+  type_line: Token Creature — Dragon
+  uri: https://api.scryfall.com/cards/7c66280f-287b-4294-9984-32484de2568a
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: not_legal
+  pauper: not_legal
+  vintage: not_legal
+  penny: not_legal
+  commander: not_legal
+  oathbreaker: not_legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: not_legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: d6402450-8ab0-4ae6-b909-87ef6464a637
+set: tc17
+set_name: Commander 2017 Tokens
+set_type: token
+set_uri: https://api.scryfall.com/sets/d6402450-8ab0-4ae6-b909-87ef6464a637
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Atc17&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/tc17?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/7c66280f-287b-4294-9984-32484de2568a/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A606c46d7-18a5-4cce-9975-029899b82b34&unique=prints
+collector_number: '7'
+digital: false
+rarity: common
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Mark Zug
+artist_ids:
+- 48e2b98c-5467-4671-bd42-4c3746115117
+illustration_id: 425de6aa-d8d8-46a2-94a0-2a286b4b26fe
+border_color: black
+frame: '2015'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- setpromo
+prices:
+  usd: 
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Dragon&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Dragon&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Dragon
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/search/magic/product?productLineName=magic&q=Dragon&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall&view=grid
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Dragon&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Dragon&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
